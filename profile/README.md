@@ -160,7 +160,7 @@ Nous croyons en une approche **Polyglotte**. Chaque microservice est écrit dans
 
 
 
-## 🚀 Rejoignez l'équipe d'Ingénierie
+## � Rejoignez l'équipe d'Ingénierie
 
 **Cedra-shop** ne cherche pas de simples exécutants, nous cherchons des **ingénieurs passionnés** par la complexité, la performance brute et l'architecture distribuée à grande échelle.
 
@@ -185,8 +185,8 @@ Nous croyons en une approche **Polyglotte**. Chaque microservice est écrit dans
       <td width="50%">
         <h4>🔥 Postes à Pourvoir</h4>
         <ul align="left">
-          <li>👨‍💻 <b>Senior Backend Engineer</b> <i>(Go / Rust)</i></li>
-          <li>📱 <b>Mobile Architect</b> <i>(Flutter / Dart)</i></li>
+          <li>👨‍� <b>Senior Backend Engineer</b> <i>(Go / Rust)</i></li>
+          <li>� <b>Mobile Architect</b> <i>(Flutter / Dart)</i></li>
           <li>🧠 <b>AI / Data Engineer</b> <i>(Python / PyTorch)</i></li>
           <li>⚡ <b>Site Reliability Engineer</b> <i>(Nomad / Linux)</i></li>
         </ul>
