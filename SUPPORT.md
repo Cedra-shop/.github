@@ -1,4 +1,4 @@
-# Support et Aide - Cedra-Shop
+# Support Interne et Aide - Cedra-Shop
 
 Besoin d'aide pour comprendre notre architecture microservices, configurer l'environnement local avec Nomad/Kafka/Valkey, ou utiliser notre API Gateway ? Vous êtes au bon endroit.
 

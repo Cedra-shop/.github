@@ -1,6 +1,6 @@
 # Guide de Contribution - Cedra-Shop
 
-Merci de votre intérêt et de vouloir contribuer à **Cedra-Shop** ! Ce document décrit les procédures et bonnes pratiques pour intervenir sur notre architecture microservices distribuée.
+Bienvenue dans l'équipe d'ingénierie de **Cedra-Shop** ! Ce document décrit les procédures et bonnes pratiques pour intervenir sur notre architecture microservices distribuée en interne.
 
 ## 🚀 Notre Stack Technique
 

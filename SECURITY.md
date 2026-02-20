@@ -13,9 +13,9 @@ Nous fournissons activement des patchs de sécurité et assurons l'audit des ser
 
 ## Signaler une Vulnérabilité
 
-**Ne signalez PAS les failles de sécurité ou les fuites via des issues GitHub publiques.**
+**Ne signalez PAS les failles de sécurité ou les fuites via des issues GitHub basiques, même en interne, sans restreindre la visibilité.**
 
-Si vous découvrez une vulnérabilité de sécurité concernant la Cedra Gateway, le Backend Core, l'IA Engine ou sur un de nos clients (Flutter/NextJS), merci de suivre la procédure de divulgation responsable :
+Si vous découvrez une vulnérabilité de sécurité concernant la Cedra Gateway, le Backend Core, l'IA Engine ou sur un de nos clients (Flutter/NextJS), merci de suivre la procédure de divulgation interne :
 
 1. Envoyez un email décrivant la vulnérabilité à **security@cedra-shop.com** (ou à l'email de contact direct fourni en privé).
 2. Incluez toutes les informations requises pour nous permettre de reproduire et valider l'impact :
@@ -24,4 +24,4 @@ Si vous découvrez une vulnérabilité de sécurité concernant la Cedra Gateway
    - Les étapes explicites pour reproduire l'attaque.
    - L'impact direct potentiel.
 
-Nous vous répondrons dans les 48 heures suivant la réception du signalement pour entamer l'investigation et vous communiquer notre roadmap de résolution avant toute publication de correctif ou annonce.
+Nous vous répondrons dans les 48 heures suivant la réception du signalement pour entamer l'investigation et vous communiquer notre roadmap de résolution en interne.
