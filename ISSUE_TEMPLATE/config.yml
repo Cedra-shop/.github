@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Rejoignez l'équipe d'Ingénierie de Cedra-Shop
+    url: https://cedra-shop.com
+    about: Découvrez nos défis techniques et offres d'emploi (SRE, Go, Rust, Rust) !
+  - name: Signaler une Vulnérabilité de Sécurité
+    url: https://github.com/Cedra-shop/.github/blob/main/SECURITY.md
+    about: Suivez notre procédure de sécurité interne pour les failles critiques. Merci de ne pas les documenter en issue publique.
